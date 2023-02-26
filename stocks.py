@@ -11,7 +11,7 @@ Shown are the stock closing price and volume of Google
 
 ''')
 
-tickerSymbol = st.text_input("Enter ticker symbol: ")
+tickerSymbol = st.text_input("Enter ticker symbol:  (Like TSLA etc.)")
 tickerData = yf.Ticker(str(tickerSymbol))
 start = st.text_input("Enter start date(yyyy-mm-dd): ")
 end = st.text_input("Enter end date(yyyy-mm-dd or 'today'): ")
