@@ -1,3 +1,3 @@
 # Python-Portfolio
 Previews:
-- Stocks.py = https://majkelandzelo-python-portfolio-stocks-8cpuk7.streamlit.app/
+- Stocks.py = https://andzelo-python-stocks.streamlit.app/
